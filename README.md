@@ -33,7 +33,6 @@ USE database_name;
 CREATE TABLE table_name (
   column1 datatype,
   column2 datatype,
-  ...
 );
 ```
 
@@ -128,7 +127,7 @@ VALUES (value1, value2);
 **උදාහරණ:**
 ```sql
 INSERT INTO students (id, name, age)
-VALUES (1, 'Alice', 20);
+VALUES (1, 'Kapila', 69);
 ```
 
 ---
@@ -148,7 +147,7 @@ WHERE condition;
 ```sql
 UPDATE students
 SET age = 21
-WHERE name = 'Alice';
+WHERE name = 'Kapila';
 ```
 
 ---
