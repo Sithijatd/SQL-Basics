@@ -18,7 +18,7 @@ CREATE DATABASE database_name;
 
 ---
 
-## Use Database {#use}
+## ![sql-icon](https://img.icons8.com/external-vectorslab-flat-vectorslab/18/external-Sql-Website-servers-and-databases-vectorslab-flat-vectorslab.png) Use Database
 
 ```sql
 USE database_name;
