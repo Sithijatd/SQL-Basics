@@ -2,10 +2,10 @@
 
 | **Data Definition** | **Data Manipulation** |
 |:----:|:-----:|
-|[CREATE](https://github.com/Sithijatd/SQL-Basics#-create-database)|[SELECT](https://github.com/Sithijatd/SQL-Basics#-create-database)|
-|[ALTER](https://github.com/Sithijatd/SQL-Basics#-ALTER-Table)|[INSERT INTO](https://github.com/Sithijatd/SQL-Basics#-create-database)|
-|[DROP](https://github.com/Sithijatd/SQL-Basics#-create-database)|[UPDATE](https://github.com/Sithijatd/SQL-Basics#-create-database)|
-|[RENAME](https://github.com/Sithijatd/SQL-Basics#-create-database)|[DELETE](https://github.com/Sithijatd/SQL-Basics#-create-database)|
+|[CREATE](https://github.com/Sithijatd/SQL-Basics#-create-database)|[SELECT](https://github.com/Sithijatd/SQL-Basics#-select-data)|
+|[ALTER](https://github.com/Sithijatd/SQL-Basics#-alter-table)|[INSERT INTO](https://github.com/Sithijatd/SQL-Basics#-insert-into-table)|
+|[DROP](https://github.com/Sithijatd/SQL-Basics#-drop-table)|[UPDATE](https://github.com/Sithijatd/SQL-Basics#-update-data)|
+|[RENAME](https://github.com/Sithijatd/SQL-Basics#-rename-table)|[DELETE](https://github.com/Sithijatd/SQL-Basics#-delete-data)|
 
 ---
 ## ![sql-icon](https://img.icons8.com/external-vectorslab-flat-vectorslab/18/external-Sql-Website-servers-and-databases-vectorslab-flat-vectorslab.png) Create Database
