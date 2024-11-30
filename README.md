@@ -18,7 +18,7 @@ CREATE DATABASE database_name;
 
 ---
 
-## Use Database (#use)
+## Use Database {#use}
 
 ```sql
 USE database_name;
